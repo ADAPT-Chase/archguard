@@ -31,9 +31,9 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
-.vscode/
 *.jar
 **/.DS_Store
+temp_auto_push.bat
 # Cache of project
 .gradletasknamecache
 
@@ -69,3 +69,6 @@ function_map.txt
 reverse_call_map.txt
 injection_map.txt
 recording.jsonl
+.gitignore
+branch_structure.json
+temp_interactive_push.bat
